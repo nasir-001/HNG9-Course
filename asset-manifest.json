@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/HNG9-Course/static/css/main.785323eb.css",
-    "main.js": "/HNG9-Course/static/js/main.59d20ef8.js",
+    "main.css": "/HNG9-Course/static/css/main.166e3637.css",
+    "main.js": "/HNG9-Course/static/js/main.96cae35b.js",
     "static/media/nasir.jpg": "/HNG9-Course/static/media/nasir.6c1ed5cb6ff42c16c036.jpg",
     "static/media/slack.svg": "/HNG9-Course/static/media/slack.6fa75d08a444264c64393c623e71c055.svg",
     "static/media/github.svg": "/HNG9-Course/static/media/github.6a40f212828370260b880b93f8d36b56.svg",
     "static/media/elipsis.svg": "/HNG9-Course/static/media/elipsis.fce47d5ea86c1007d48aeb1d987c84a1.svg",
     "static/media/share.svg": "/HNG9-Course/static/media/share.e3f81b496e21f13d54272e5772ace63b.svg",
     "index.html": "/HNG9-Course/index.html",
-    "main.785323eb.css.map": "/HNG9-Course/static/css/main.785323eb.css.map",
-    "main.59d20ef8.js.map": "/HNG9-Course/static/js/main.59d20ef8.js.map"
+    "main.166e3637.css.map": "/HNG9-Course/static/css/main.166e3637.css.map",
+    "main.96cae35b.js.map": "/HNG9-Course/static/js/main.96cae35b.js.map"
   },
   "entrypoints": [
-    "static/css/main.785323eb.css",
-    "static/js/main.59d20ef8.js"
+    "static/css/main.166e3637.css",
+    "static/js/main.96cae35b.js"
   ]
 }
