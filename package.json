@@ -2,7 +2,7 @@
   "name": "profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nasir-001.github.io/HNG9-Course",
+  "homepage": "https://nasir-001.github.io/hng-course",
   "dependencies": {
     "@tailwindcss/forms": "^0.5.3",
     "@testing-library/jest-dom": "^5.16.5",
